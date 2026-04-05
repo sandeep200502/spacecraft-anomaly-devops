@@ -1,0 +1,5 @@
+spacecraft_anomaly/
+*.zip
+*.pkl
+__pycache__/
+.ipynb_checkpoints/
